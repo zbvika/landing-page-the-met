@@ -9,7 +9,6 @@ Technologies Used:
 1) Sass:
 
 - Variables for colors and sizes ($main-color-red, $main-color-dark, etc.) are used to simplify the maintenance and editing of styles.
-
 - Mixins (@mixin) for styling various elements such as adaptive padding and sizes, as well as adding hover, focus, and active effects.
 
 2) Animations:
@@ -19,9 +18,7 @@ Technologies Used:
 3) Responsive Design:
 
 - Wide support for different screen sizes with the use of the on-tablet and on-desktop mixins.
-
 - The use of CSS Grid and Flexbox for flexible layout of elements, their alignment, and distribution.
-
 This is a comprehensive approach to creating a webpage with a focus on usability, responsiveness, and visual effects.
 
 To get started:
@@ -29,7 +26,7 @@ To get started:
    git clone https://github.com/zbvika/landing-page-the-met.git
 2. Install dependencies:
    npm install
-2.Start the project:
+3.Start the project:
    npm start
 
 - [Link to the layout](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
